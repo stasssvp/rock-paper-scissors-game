@@ -15,7 +15,7 @@ A clean and well-structured Rock-Paper-Scissors game built using **C#** and **WP
 
 ## 🛠 Technologies Used
 
-- **C# 8.0**
+- **C#**
 - **WPF (Windows Presentation Foundation)**
 
 ---
@@ -65,11 +65,10 @@ A clean and well-structured Rock-Paper-Scissors game built using **C#** and **WP
 ---
 
 ## 👽 Credits
-
-	•	Game Logic: Created by Stanimir Petkov.
-	•	Artworks: Emoji images are sourced from the Apple emoji set.
-	•	Font: Uses Cascadia Code, licensed under the Microsoft Cascadia Code License.
-	•	Frameworks: Built with .NET and WPF. No third-party libraries required.
+- Game Logic: Created by Stanimir Petkov.
+- Artworks: Emoji images are sourced from the Apple emoji set.
+- Font: Uses Cascadia Code, licensed under the Microsoft Cascadia Code License.
+- Frameworks: Built with .NET and WPF. No third-party libraries required.
 
 Contributions are welcome! Feel free to open issues or pull requests.
 
@@ -79,4 +78,4 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 This project is a great example of how even a simple game can benefit from clean code, good practices, and attention to detail.
 
-Enjoy playing and improving!
+**Enjoy playing and improving!**
