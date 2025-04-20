@@ -64,7 +64,8 @@ A clean and well-structured Rock-Paper-Scissors game built using **C#** and **WP
 
 ---
 
-👽 Credits
+## 👽 Credits
+
 	•	Game Logic: Created by Stanimir Petkov.
 	•	Artworks: Emoji images are sourced from the Apple emoji set.
 	•	Font: Uses Cascadia Code, licensed under the Microsoft Cascadia Code License.
@@ -74,7 +75,7 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 ---
 
-🔥 Final Words
+## 🔥 Final Words
 
 This project is a great example of how even a simple game can benefit from clean code, good practices, and attention to detail.
 
