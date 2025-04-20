@@ -56,10 +56,7 @@ It demonstrates not only game mechanics but also solid principles for organizing
 
 🚀 How to Run
 	1.	Clone the repository:
-
-git clone https://github.com/yourusername/rock-paper-scissors-game.git
-
-
+	git clone https://github.com/stasssvp/rock-paper-scissors-game.git
 	2.	Open the solution in Visual Studio (version 2019+ recommended).
 	3.	Build and run the project.
 
