@@ -56,11 +56,11 @@ A clean and well-structured Rock-Paper-Scissors game built using **C#** and **WP
 
 ## 🚀 How to Run
 
-	1. Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/stasssvp/rock-paper-scissors-game.git
-   2.	Open the solution in Visual Studio (2019 or later recommended).
-	3.	Build and run the project.
+2.	Open the solution in Visual Studio (2019 or later recommended).
+3.	Build and run the project.
 
 ---
 
